@@ -85,9 +85,6 @@ class userController extends BaseController {
         return redirect('/');
     }
 
-
-
-
     /**
 	* Sending the OTP.
 	*
