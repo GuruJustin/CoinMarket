@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="100" viewBox="0 0 65 100">
+  <defs>
+    <linearGradient id="chart-03-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#5F82EF"/>
+      <stop offset="100%" stop-color="#86A3FA"/>
+    </linearGradient>
+    <linearGradient id="chart-03-b" x1="100%" x2="0%" y1="82.197%" y2="89.163%">
+      <stop offset="0%" stop-color="#5E82F1"/>
+      <stop offset="100%" stop-color="#4F75EA"/>
+    </linearGradient>
+    <linearGradient id="chart-03-c" x1="100%" x2="0%" y1="89.163%" y2="82.616%">
+      <stop offset="0%" stop-color="#5E82F1"/>
+      <stop offset="100%" stop-color="#4F75EA"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="url(#chart-03-a)" points="0 18.5 32.04 37 64.08 18.5 32.04 .001"/>
+    <polygon fill="url(#chart-03-b)" points="0 81.501 32.04 99.999 32.04 37.001 0 18.5"/>
+    <polygon fill="url(#chart-03-c)" points="32.04 37 32.04 100 64.08 81.5 64.08 18.5"/>
+  </g>
+</svg>

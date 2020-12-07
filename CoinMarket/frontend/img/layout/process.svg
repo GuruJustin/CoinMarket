@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="710" height="710" viewBox="0 0 710 710">
+  <defs>
+    <linearGradient id="process-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#5366FF"/>
+      <stop offset="51.47%" stop-color="#2123E3"/>
+      <stop offset="100%" stop-color="#5366FF"/>
+    </linearGradient>
+    <linearGradient id="process-b" x1="0%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#5366FF"/>
+      <stop offset="100%" stop-color="#2123E3"/>
+    </linearGradient>
+    <linearGradient id="process-c" x1="100%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#5366FF"/>
+      <stop offset="100%" stop-color="#2123E3"/>
+    </linearGradient>
+    <linearGradient id="process-d" x1="35.293%" y1="71.69%" y2="0%">
+      <stop offset="0%" stop-color="#5366FF"/>
+      <stop offset="75.993%" stop-color="#2123E3"/>
+      <stop offset="100%" stop-color="#5366FF"/>
+    </linearGradient>
+    <linearGradient id="process-e" x1="100%" x2="0%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#5366FF"/>
+      <stop offset="100%" stop-color="#2123E3"/>
+    </linearGradient>
+    <linearGradient id="process-f" x1="0%" y1="66.424%" y2="100%">
+      <stop offset="0%" stop-color="#5366FF"/>
+      <stop offset="100%" stop-color="#2123E3"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+    <circle cx="354" cy="354" r="354" stroke="url(#process-a)" opacity=".15"/>
+    <ellipse cx="354" cy="354.5" stroke="url(#process-a)" stroke-width="3" rx="135" ry="136.5"/>
+    <circle cx="354.5" cy="354.5" r="244.5" stroke="url(#process-a)" opacity=".2"/>
+    <circle cx="354.5" cy="354.5" r="179.5" stroke="url(#process-a)" opacity=".5"/>
+    <g transform="translate(26 184)">
+      <g transform="translate(0 243)">
+        <path stroke="url(#process-b)" stroke-width="1.5" d="M201.768867,53.3219276 L161.625969,93.4648257 C157.875241,97.2155532 152.788163,99.3226901 147.483833,99.3226901 L22.2635014,99.3226901 C18.9629723,99.3226901 15.8750147,100.951267 14.0109889,103.675032 L0.20928444,123.842462"/>
+        <path stroke="url(#process-c)" stroke-width="1.5" d="M201.548635,53.5557504 L231.266611,23.8377741"/>
+        <g transform="rotate(45 115.55 279.528)">
+          <rect width="23" height="23" x="5" y="5" fill="#FFF" opacity=".03" transform="rotate(45 16.5 16.5)"/>
+          <rect width="11" height="11" x="11" y="11" fill="#FFF" opacity=".1" transform="rotate(45 16.5 16.5)"/>
+          <rect width="5" height="5" x="14" y="14" fill="#988BFF" transform="rotate(45 16.5 16.5)"/>
+        </g>
+      </g>
+      <g transform="translate(0 154)">
+        <path stroke="url(#process-d)" stroke-width="1.5" d="M193.409316,17 L129.729268,17.1695585 C129.711517,17.1696058 129.693766,17.1696294 129.676015,17.1696294 L21.066763,17.1696294 C17.6451622,17.1696294 14.4610885,18.9190285 12.6262256,21.8070434 L0,41.6803153"/>
+        <g transform="translate(177)">
+          <rect width="23" height="23" x="5" y="5" fill="#FFF" opacity=".03" transform="rotate(45 16.5 16.5)"/>
+          <rect width="11" height="11" x="11" y="11" fill="#FFF" opacity=".1" transform="rotate(45 16.5 16.5)"/>
+          <rect width="5" height="5" x="14" y="14" fill="#988BFF" transform="rotate(45 16.5 16.5)"/>
+        </g>
+      </g>
+      <g transform="translate(1)">
+        <path stroke="url(#process-e)" stroke-width="1.5" d="M231.217894,74.2178943 L202.998992,45.9989919"/>
+        <path stroke="url(#process-f)" stroke-width="1.5" d="M203.155594,46.1530559 L163.387771,6.26773509 C159.635361,2.50423871 154.539343,0.388993963 149.224789,0.388993963 L21.1532949,0.388993963 C17.7316941,0.388993963 14.5476203,2.13839303 12.7127575,5.02640798 L0.0865318404,24.8996799"/>
+        <g transform="rotate(45 55.195 304.528)">
+          <rect width="23" height="23" x="5" y="5" fill="#FFF" opacity=".03" transform="rotate(45 16.5 16.5)"/>
+          <rect width="11" height="11" x="11" y="11" fill="#FFF" opacity=".1" transform="rotate(45 16.5 16.5)"/>
+          <rect width="5" height="5" x="14" y="14" fill="#988BFF" transform="rotate(45 16.5 16.5)"/>
+        </g>
+      </g>
+      <g transform="matrix(-1 0 0 1 656 243)">
+        <path stroke="url(#process-b)" stroke-width="1.5" d="M201.768867,53.3219276 L161.625969,93.4648257 C157.875241,97.2155532 152.788163,99.3226901 147.483833,99.3226901 L22.2635014,99.3226901 C18.9629723,99.3226901 15.8750147,100.951267 14.0109889,103.675032 L0.20928444,123.842462"/>
+        <path stroke="url(#process-c)" stroke-width="1.5" d="M201.548635,53.5557504 L230.397132,24.7072532"/>
+        <g transform="rotate(-45 132.45 -239.528)">
+          <rect width="23" height="23" x="5" y="5" fill="#FFF" opacity=".03" transform="rotate(45 16.5 16.5)"/>
+          <rect width="11" height="11" x="11" y="11" fill="#FFF" opacity=".1" transform="rotate(45 16.5 16.5)"/>
+          <rect width="5" height="5" x="14" y="14" fill="#988BFF" transform="rotate(45 16.5 16.5)"/>
+        </g>
+      </g>
+      <g transform="matrix(-1 0 0 1 656 154)">
+        <path stroke="url(#process-d)" stroke-width="1.5" d="M192.460137,17 L129.729671,17.1695563 C129.711651,17.169605 129.693632,17.1696294 129.675612,17.1696294 L21.066763,17.1696294 C17.6451622,17.1696294 14.4610885,18.9190285 12.6262256,21.8070434 L0,41.6803153"/>
+        <g transform="translate(177)">
+          <rect width="23" height="23" x="5" y="5" fill="#FFF" opacity=".03" transform="rotate(45 16.5 16.5)"/>
+          <rect width="11" height="11" x="11" y="11" fill="#FFF" opacity=".1" transform="rotate(45 16.5 16.5)"/>
+          <rect width="5" height="5" x="14" y="14" fill="#988BFF" transform="rotate(45 16.5 16.5)"/>
+        </g>
+      </g>
+      <g transform="matrix(-1 0 0 1 655 0)">
+        <path stroke="url(#process-e)" stroke-width="1.5" d="M231.359289,74.3592891 L202.998992,45.9989919"/>
+        <path stroke="url(#process-f)" stroke-width="1.5" d="M203.155594,46.1530559 L163.387771,6.26773509 C159.635361,2.50423871 154.539343,0.388993963 149.224789,0.388993963 L21.1532949,0.388993963 C17.7316941,0.388993963 14.5476203,2.13839303 12.7127575,5.02640798 L0.0865318404,24.8996799"/>
+        <g transform="rotate(45 55.195 304.528)">
+          <rect width="23" height="23" x="5" y="5" fill="#FFF" opacity=".03" transform="rotate(45 16.5 16.5)"/>
+          <rect width="11" height="11" x="11" y="11" fill="#FFF" opacity=".1" transform="rotate(45 16.5 16.5)"/>
+          <rect width="5" height="5" x="14" y="14" fill="#988BFF" transform="rotate(45 16.5 16.5)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

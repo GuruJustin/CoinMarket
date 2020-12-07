@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 399 481">
+  <defs>
+    <linearGradient id="polygon-3-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".062"/>
+    </linearGradient>
+    <linearGradient id="polygon-3-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".062"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(-97 -32)">
+    <polygon fill="url(#polygon-3-a)" points="254 212 403.297 260.51 495.568 387.51 495.568 544.49 403.297 671.49 254 720 104.703 671.49 12.432 544.49 12.432 387.51 104.703 260.51"/>
+    <polygon fill="url(#polygon-3-b)" points="254 0 403.297 48.51 495.568 175.51 495.568 332.49 403.297 459.49 254 508 104.703 459.49 12.432 332.49 12.432 175.51 104.703 48.51"/>
+  </g>
+</svg>

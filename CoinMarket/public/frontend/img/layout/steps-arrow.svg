@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="76" viewBox="0 0 450 76">
+  <g fill="none" fill-rule="evenodd" stroke="#FFF" transform="translate(0 1)">
+    <path stroke-dasharray="7 3" d="M0.3,0.4 C0.3,0.4 164.5,158.2 348.5,12.5"/>
+    <g transform="translate(304 12)">
+      <path d="M0.4,4.2 L3.9,3.9"/>
+      <path stroke-dasharray="7.016 4.009" d="M7.9,3.6 L38.9,1"/>
+      <polyline points="40.9 .8 44.3 .5 44.5 4"/>
+      <path stroke-dasharray="6.208 3.548" d="M44.7,7.6 L46.1,35"/>
+      <path d="M46.2,36.8 L46.3,40.3"/>
+    </g>
+  </g>
+</svg>

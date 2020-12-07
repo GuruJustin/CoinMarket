@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1717">
+  <defs>
+    <path id="wave-7-a" d="M0,-1.13686838e-13 C531.916262,62.1069999 890.207727,267.759397 1074.87439,616.95719 C1259.54106,966.154983 1541.20773,1125.14851 1919.87439,1093.93778 L1919.87439,1716 L0,1716 L0,-1.13686838e-13 Z"/>
+    <linearGradient id="wave-7-b" x1="99.305%" x2="99.305%" y1="3.216%" y2="100%">
+      <stop offset="0%" stop-color="#6987FF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#6987FF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(-.126 .509)">
+    <mask id="wave-7-c" fill="#fff">
+      <use xlink:href="#wave-7-a"/>
+    </mask>
+    <use fill="#6987FF" opacity=".147" xlink:href="#wave-7-a"/>
+    <path fill="url(#wave-7-b)" d="M1919.87439,1716 L1.13686838e-13,1716 C1020.66327,1623.64495 1663.28807,1295.97829 1927.87439,733 C1927.87439,733 1925.20773,1060.66667 1919.87439,1716 Z" mask="url(#wave-7-c)" opacity=".147"/>
+  </g>
+</svg>

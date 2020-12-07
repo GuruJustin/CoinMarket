@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g fill="none">
+    <circle cx="15" cy="15" r="15" fill="#4D69D4"/>
+    <g fill="#FFF" transform="translate(8.438 3.75)">
+      <polygon fill-opacity=".602" points="7.029 0 7.029 8.316 14.058 11.456"/>
+      <polygon points="7.029 0 0 11.456 7.029 8.316"/>
+      <polygon fill-opacity=".602" points="7.029 16.845 7.029 22.495 14.063 12.765"/>
+      <polygon points="7.029 22.495 7.029 16.844 0 12.765"/>
+      <polygon fill-opacity=".2" points="7.029 15.537 14.058 11.456 7.029 8.318"/>
+      <polygon fill-opacity=".602" points="0 11.456 7.029 15.537 7.029 8.318"/>
+    </g>
+  </g>
+</svg>
