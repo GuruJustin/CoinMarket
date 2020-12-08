@@ -1,0 +1,44 @@
+[09-May-2020 22:42:36 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/dmexchangepro/index.php on line 52
+[04-Jun-2020 05:42:16 UTC] PHP Notice:  Undefined index: adm in /home2/khaytech/public_html/blockchain/robots.php on line 1
+[04-Jun-2020 05:42:16 UTC] PHP Notice:  Undefined index: p in /home2/khaytech/public_html/blockchain/robots.php on line 1
+[04-Jun-2020 05:42:16 UTC] PHP Notice:  Undefined index: adm in /home2/khaytech/public_html/blockchain/robots.php on line 1
+[04-Jun-2020 05:42:16 UTC] PHP Notice:  Undefined index: p in /home2/khaytech/public_html/blockchain/robots.php on line 1
+[04-Jun-2020 05:42:17 UTC] PHP Notice:  Undefined index: adm in /home2/khaytech/public_html/blockchain/robots.php on line 1
+[04-Jun-2020 05:42:17 UTC] PHP Notice:  Undefined index: p in /home2/khaytech/public_html/blockchain/robots.php on line 1
+[04-Jun-2020 05:42:17 UTC] PHP Notice:  Undefined index: adm in /home2/khaytech/public_html/blockchain/robots.php on line 1
+[04-Jun-2020 05:42:17 UTC] PHP Notice:  Undefined index: p in /home2/khaytech/public_html/blockchain/robots.php on line 1
+[04-Jun-2020 05:42:17 UTC] PHP Notice:  Undefined index: adm in /home2/khaytech/public_html/blockchain/robots.php on line 1
+[04-Jun-2020 05:42:17 UTC] PHP Notice:  Undefined index: p in /home2/khaytech/public_html/blockchain/robots.php on line 1
+[04-Jun-2020 05:42:19 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/blockchain/index.php on line 52
+[04-Jun-2020 05:42:21 UTC] PHP Notice:  Undefined index: adm in /home2/khaytech/public_html/blockchain/robots.php on line 1
+[04-Jun-2020 05:42:21 UTC] PHP Notice:  Undefined index: p in /home2/khaytech/public_html/blockchain/robots.php on line 1
+[04-Jun-2020 05:42:21 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/blockchain/index.php on line 52
+[04-Jun-2020 05:42:21 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/blockchain/index.php on line 52
+[04-Jun-2020 05:42:21 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/blockchain/index.php on line 52
+[04-Jun-2020 05:42:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/blockchain/index.php on line 52
+[04-Jun-2020 05:42:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/blockchain/index.php on line 52
+[04-Jun-2020 05:42:25 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/blockchain/index.php on line 52
+[04-Jun-2020 05:42:37 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/blockchain/index.php on line 52
+[04-Jun-2020 05:42:41 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/blockchain/index.php on line 52
+[04-Jun-2020 05:42:44 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/blockchain/index.php on line 52
+[04-Jun-2020 05:43:12 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/blockchain/index.php on line 52
+[04-Jun-2020 05:48:41 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/blockchain/index.php on line 52
+[04-Jun-2020 05:51:05 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/ventura/index.php on line 52
+[04-Jun-2020 05:51:37 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/khaytech/public_html/ventura/index.php on line 52
+[05-Jun-2020 02:22:57 UTC] PHP Warning:  Uncaught ErrorException: require_once(Mail.php): failed to open stream: No such file or directory in /home2/khaytech/public_html/ventura/app/app/Http/Controllers/HomeController.php:106
+Stack trace:
+#0 /home2/khaytech/public_html/ventura/app/app/Http/Controllers/HomeController.php(106): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(Ma...', '/home2/khaytech...', 106, Array)
+#1 /home2/khaytech/public_html/ventura/app/app/Http/Controllers/HomeController.php(106): require_once()
+#2 [internal function]: App\Http\Controllers\HomeController->index()
+#3 /home2/khaytech/public_html/ventura/app/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): call_user_func_array(Array, Array)
+#4 /home2/khaytech/public_html/ventura/app/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('index', Array)
+#5 /home2/khaytech/public_html/ventura/app/vendor/laravel/framework/src/Illuminate/Routing/Route.php(212): Illuminate\ in /home2/khaytech/public_html/ventura/app/app/Http/Controllers/HomeController.php on line 106
+[05-Jun-2020 02:22:57 UTC] PHP Fatal error:  App\Http\Controllers\HomeController::index(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home2/khaytech/public_html/ventura/app/app/Http/Controllers/HomeController.php on line 106
+[05-Jun-2020 02:24:21 UTC] PHP Warning:  Uncaught ErrorException: require_once(Mail.php): failed to open stream: No such file or directory in /home2/khaytech/public_html/ventura/app/storage/framework/views/7731c92b6a9ba9a2fdf541c47018678b3dc8807c.php:19
+Stack trace:
+#0 /home2/khaytech/public_html/ventura/app/storage/framework/views/7731c92b6a9ba9a2fdf541c47018678b3dc8807c.php(19): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(Ma...', '/home2/khaytech...', 19, Array)
+#1 /home2/khaytech/public_html/ventura/app/storage/framework/views/7731c92b6a9ba9a2fdf541c47018678b3dc8807c.php(19): require_once()
+#2 /home2/khaytech/public_html/ventura/app/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/khaytech...')
+#3 /home2/khaytech/public_html/ventura/app/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/khaytech...', Array)
+#4 /home2/khaytech/public_html/ventura/app/vendor/laravel/framework/src/Illuminate/View in /home2/khaytech/public_html/ventura/app/storage/framework/views/7731c92b6a9ba9a2fdf541c47018678b3dc8807c.php on line 19
+[05-Jun-2020 02:24:21 UTC] PHP Fatal error:  Illuminate\View\Engines\PhpEngine::main(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home2/khaytech/public_html/ventura/app/storage/framework/views/7731c92b6a9ba9a2fdf541c47018678b3dc8807c.php on line 19
